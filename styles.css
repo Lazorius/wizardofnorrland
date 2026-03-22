@@ -8,8 +8,8 @@
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
+    color: #F5F5DC;
+    background-color: #2F2F2F;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 
 /* Header and Navigation */
 header {
-    background-color: #2c3e50;
+    background-color: #8B4513;
     color: white;
     position: fixed;
     width: 100%;
@@ -58,13 +58,13 @@ header {
 }
 
 .nav-menu a:hover {
-    color: #3498db;
+    color: #FFD700;
 }
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #0014ca 100%);
-    color: white;
+    background: linear-gradient(135deg, #000000 0%, #2F2F2F 100%);
+    color: #FFD700;
     padding: 120px 0 80px;
     text-align: center;
 }
@@ -81,8 +81,8 @@ header {
 
 .cta-button {
     display: inline-block;
-    background-color: #3498db;
-    color: white;
+    background-color: #FFD700;
+    color: #000000;
     padding: 12px 24px;
     text-decoration: none;
     border-radius: 5px;
@@ -90,7 +90,7 @@ header {
 }
 
 .cta-button:hover {
-    background-color: #2980b9;
+    background-color: #B8860B;
 }
 
 /* Sections */
@@ -99,18 +99,18 @@ section {
 }
 
 .about, .projects, .contact {
-    background-color: white;
+    background-color: #1C1C1C;
 }
 
 .about {
-    background-color: #f9f9f9;
+    background-color: #1C1C1C;
 }
 
 section h2 {
     text-align: center;
     margin-bottom: 40px;
     font-size: 2.5rem;
-    color: #2c3e50;
+    color: #FFD700;
 }
 
 /* Projects */
@@ -121,7 +121,7 @@ section h2 {
 }
 
 .project-card {
-    background-color: #f9f9f9;
+    background-color: #3A3A3A;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -134,7 +134,7 @@ section h2 {
 
 .project-card h3 {
     margin-bottom: 15px;
-    color: #2c3e50;
+    color: #FFD700;
 }
 
 /* Contact Form */
@@ -151,7 +151,7 @@ label {
 input, textarea {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #696969;
     border-radius: 4px;
     font-size: 1rem;
 }
@@ -162,8 +162,8 @@ textarea {
 }
 
 .submit-button {
-    background-color: #3498db;
-    color: white;
+    background-color: #FFD700;
+    color: #000000;
     padding: 12px 24px;
     border: none;
     border-radius: 4px;
@@ -173,12 +173,12 @@ textarea {
 }
 
 .submit-button:hover {
-    background-color: #2980b9;
+    background-color: #B8860B;
 }
 
 /* Footer */
 footer {
-    background-color: #2c3e50;
+    background-color: #8B4513;
     color: white;
     text-align: center;
     padding: 20px 0;
