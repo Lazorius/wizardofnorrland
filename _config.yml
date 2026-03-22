@@ -1,7 +1,7 @@
 title: Wizard of Norrland
 description: Your site description here
-baseurl: ""
-url: https://wizardofnorrland.net
+baseurl: /wizardofnorrland
+url: https://lazorius.github.io
 
 # Build settings
 theme: jekyll-theme-minimal
