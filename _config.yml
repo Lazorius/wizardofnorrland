@@ -1,0 +1,14 @@
+title: Wizard of Norrland
+description: Your site description here
+baseurl: /wizardofnorrland
+url: https://lazorius.github.io
+
+# Build settings
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Exclude files from processing
+exclude:
+  - .github/
+  - .gitignore
+  - README.md
